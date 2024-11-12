@@ -36,3 +36,10 @@ td,tr{
 	padding-right:10px
 	float: right;
 }
+ table {
+            border-collapse: collapse;
+            border: 1px solid black;
+            margin: 10px auto;
+            width: 80%;
+	 
+        }
