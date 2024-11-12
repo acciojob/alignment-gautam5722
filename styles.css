@@ -22,9 +22,11 @@
 }
 
 td,tr{
-	padding-right: 100px;
+	/* padding-right: 100px; */
+	 border: 1px solid black;
+            padding: 1px;
 }
-/* 
+
 .center,#t12{
 	padding: 10px;
 	text-align: center;
@@ -33,4 +35,4 @@ td,tr{
 	text-align: right;
 	padding-right:10px
 	float: right;
-} */
+}
