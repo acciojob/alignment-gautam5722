@@ -1,1 +1,36 @@
 /*  your css code here. If applicable */
+.title{
+	text-align: center;
+}
+.middle{
+	border: 1px solid black;
+	border-spacing : 1px;
+}
+
+ th, td {
+            border: 1px solid black;
+            padding: 10px;
+	 
+	 
+        }
+
+.green{
+	background-color: green;
+}
+.blue{
+	background-color: blue;
+}
+
+td,tr{
+	padding-right: 100px;
+}
+/* 
+.center,#t12{
+	padding: 10px;
+	text-align: center;
+}
+.right,#t13{
+	text-align: right;
+	padding-right:10px
+	float: right;
+} */
