@@ -9,7 +9,7 @@
 
  th, td {
             border: 1px solid black;
-            padding: 10px;
+            padding: 1px;
 	 
 	 
         }
@@ -33,7 +33,7 @@ td,tr{
 }
 .right,#t13{
 	text-align: right;
-	padding-right:10px
+	padding-right:1px
 	float: right;
 }
  table {
