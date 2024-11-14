@@ -45,3 +45,8 @@ td,tr{
 #table-2, .tab2 {
 	padding-left: 100px;
 }
+#t-image{
+	align-items: center;
+	justify-content: center;
+	display: flex;
+}
